@@ -7,7 +7,6 @@ This project involves analyzing data from the T20 World Cup 2022 to select the b
 
 ## Key Features
 
-
 Web Scraping: Extracted cricket data from ESPN Cricinfo using Bright Data.
 
 Data Cleaning and Transformation: Utilized Python and Pandas to clean and preprocess the data for analysis.
