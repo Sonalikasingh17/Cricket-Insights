@@ -1,5 +1,5 @@
 # Cricket-Insights - T20 World Cup Analysis
-Data-Analytics Project for Beginners 
+Data-Analytics Project for Beginners  
    
 ## Project Overview 
 
