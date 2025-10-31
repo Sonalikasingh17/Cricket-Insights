@@ -3,7 +3,7 @@ Data-Analytics Project for Beginners
    
 ## Project Overview 
 
-This project involves analyzing data from the T20 World Cup 2022 to select the best 11-player team. The project combines web scraping, data cleaning, analysis, and visualization to provide comprehensive insights into player performance.
+This project involves analyzing data from the T20 World Cup 2022 to select the best 11-player team. The project combines web scraping, data cleaning, analysis, and visualization to provide comprehensive insights into player performance. 
 
 ## Key Features  
 
